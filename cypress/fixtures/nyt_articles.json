@@ -1,0 +1,59 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2023 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://article/1234abcd-1234-5678-abcd-1234abcd5678",
+      "url": "https://www.nytimes.com/2023/07/18/world/europe/ukraine-cluster-munitions.html",
+      "id": 100000008982493,
+      "asset_id": 100000008982493,
+      "source": "New York Times",
+      "published_date": "2023-07-18",
+      "updated": "2023-07-18 23:37:45",
+      "section": "World",
+      "subsection": "Europe",
+      "nytdsection": "world",
+      "adx_keywords": "Russian Invasion of Ukraine (2022);Cluster Munitions;Ukraine;Russia;United States",
+      "column": null,
+      "byline": "By Marc Santora",
+      "type": "Article",
+      "title": "Ukraine Says It Has Used Cluster Munitions, and They're Working",
+      "abstract": "The controversial weapons, recently provided by the United States, are already making a difference on the battlefield, a senior Ukrainian official said.",
+      "des_facet": ["Russian Invasion of Ukraine (2022)", "Cluster Munitions"],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": ["Ukraine", "Russia", "United States"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Ukrainian soldier firing a howitzer at Russian positions last month in the Donetsk region.",
+          "copyright": "Emile Ducke for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/18/multimedia/18ukraine-cluster-01-ftkq/18ukraine-cluster-01-ftkq-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/18/multimedia/18ukraine-cluster-01-ftkq/18ukraine-cluster-01-ftkq-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/18/multimedia/18ukraine-cluster-01-ftkq/18ukraine-cluster-01-ftkq-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    }
+  ]
+}

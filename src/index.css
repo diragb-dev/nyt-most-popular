@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --nyt-font-family: Georgia, "Times New Roman", serif;
+  --nyt-body-font-size: 20px;
+  --nyt-line-height: 1.5;
+  --nyt-text-color: #121212;
+  --nyt-background-color: #fff;
+  --nyt-secondary-color: #666;
+  --nyt-border-color: #e2e2e2;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  font-family: var(--nyt-font-family);
+  font-size: var(--nyt-body-font-size);
+  line-height: var(--nyt-line-height);
+  color: var(--nyt-text-color);
+  background-color: var(--nyt-background-color);
+}
+
+a {
+  color: #326891;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
