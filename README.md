@@ -18,7 +18,7 @@ This project relies on the New York Times API, which requires an API key. [Here'
 After you have your API key, create a `.env` file at the root of the project and paste the following in it:
 
 ```bash
-REACT_APP_API_KEY=<YOUR_API_KEY> # Replace <YOUR_API_KEY> with your NYT API Key.
+REACT_APP_NYT_API_KEY=<YOUR_API_KEY> # Replace <YOUR_API_KEY> with your NYT API Key.
 ```
 
 ## Running The Application

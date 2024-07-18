@@ -23,7 +23,7 @@ export const NYTArticlesContext = createContext<NYTArticlesContextType>({
 
 export const NYTArticlesProvider = ({ children }: { children: React.ReactNode }) => {
   // Constants:
-  const API_KEY = process.env['REACT_APP_API_KEY'];
+  const API_KEY = process.env['REACT_APP_NYT_API_KEY'];
   const API_URL = `https://api.nytimes.com/svc/mostpopular/v2/viewed/1.json?api-key=${ API_KEY }`;
 
   // State:
